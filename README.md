@@ -1,1 +1,0 @@
-# design-culture-front-end
